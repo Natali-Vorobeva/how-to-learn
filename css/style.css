@@ -1,8 +1,7 @@
-digi.page {
+.page {
   max-width: 1600px;
   min-width: 1000px;
   margin: 0 auto;
-  overflow-x: hidden;
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -12,6 +11,10 @@ digi.page {
       -ms-flex-direction: column;
           flex-direction: column;
   min-height: 100vh;
+}
+
+.wrapper {
+  overflow: hidden;
 }
 
 .header {
