@@ -2,14 +2,11 @@
 	max-width: 1600px;
 	min-width: 1000px;
 	margin: 0 auto;
-	
+	overflow: hidden;
 	font-family:  'Helvetica Neue', 'Arial', sans-serif;
 	display: flex; 
 	flex-direction: column;
 	min-height: 100vh;
-}
-.wrapper {
-	overflow: hidden;
 }
 
 .header {
@@ -193,17 +190,7 @@
 
 	&__dark-theme {
 		width: 1110px;
-		margin: 0px auto;
-		// &::before {
-		// 	content: '';
-			
-		// 	position: absolute;
-		// 	width: 877px;
-		// 	height: 877px;
-		// 	top: 0;
-		// 	right: -210px;	
-		// 	overflow: hidden;		
-		// }
+		margin: 0px auto;		
 	}
 
 	&__title {
