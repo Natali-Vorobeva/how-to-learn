@@ -1,8 +1,8 @@
-.page {
+digi.page {
   max-width: 1600px;
   min-width: 1000px;
   margin: 0 auto;
-  overflow: hidden;
+  overflow-x: hidden;
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -316,7 +316,7 @@
   padding: 60px 0px 0px 0px;
 }
 
-.digits__table-row {
+.digits__table-flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -325,27 +325,7 @@
           justify-content: space-between;
 }
 
-.digits__table-row_number_one {
-  text-align: left;
-}
-
-.digits__table-row_number_one > th {
-  width: 250px;
-}
-
-.digits__table-row_number_one > td {
-  width: 250px;
-}
-
-.digits__table-row_number_two {
-  text-align: left;
-}
-
-.digits__table-row_number_two > th {
-  width: 250px;
-}
-
-.digits__table-row_number_two > td {
+.digits__body-size-column {
   width: 250px;
 }
 

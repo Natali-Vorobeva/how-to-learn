@@ -1,8 +1,8 @@
-.page {
+digi.page {
 	max-width: 1600px;
 	min-width: 1000px;
 	margin: 0 auto;
-	overflow: hidden;
+	overflow-x: hidden;
 	font-family:  'Helvetica Neue', 'Arial', sans-serif;
 	display: flex; 
 	flex-direction: column;
@@ -171,7 +171,7 @@
 		right: 48px;
 		color: #2f80ed;	
 		line-height: 51px;	
-		font-size: 36px;
+		font-size: 36px;		
 	}	
 }
 
@@ -272,32 +272,16 @@
 	&__table {
 		width: 1100px;
 		margin: 0px auto;
-		padding: 60px 0px 0px 0px;			
+		padding: 60px 0px 0px 0px;	
 	}
 
-	&__table-row {	
+	&__table-flex {
 		display: flex;
 		justify-content: space-between;		
 	}
 
-	&__table-row_number_one {		
-		text-align: left;	
-		&>th {
-			width: 250px;			
-		}
-		&>td {
-			width: 250px;			
-		}
-	}
-
-	&__table-row_number_two {
-		text-align: left;
-		&>th {
-			width: 250px;			
-		}
-		&>td {
-			width: 250px;			
-		}
+	&__body-size-column {
+		width: 250px;
 	}
 
 	&__table-title {
