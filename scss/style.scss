@@ -122,11 +122,6 @@
 	}
 }
 
-.table {
-	display: flex;
-	justify-content: space-between;
-}
-
 .section-title {
 	line-height: 1.15;
 	font-size: 60px;
@@ -262,11 +257,6 @@
 	font-size: 24px;
 	font-weight: 600;
 	padding: 0px 0px 80px 0px;
-}
-
-.table__cell_theme_dark {
-	position: relative;
-		z-index: 1000;	
 }
 
 .table__heading_theme_dark {	
