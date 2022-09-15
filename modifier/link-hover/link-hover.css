@@ -1,0 +1,13 @@
+@import url('/blocks/header/__link.css');
+@import url('/blocks/feynman/__link/__link.css');
+@import url('/blocks/khan/__buy-link/__buy-link.css');
+@import url('/blocks/footer/__column-link/__column-link.css');
+
+.link-hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.link-hover:hover {
+  opacity: 0.5;
+}

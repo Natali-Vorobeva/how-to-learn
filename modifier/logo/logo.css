@@ -1,0 +1,7 @@
+@import url('/blocks/header/header.css');
+@import url('/blocks/footer/__column/__column.css');
+
+.logo {
+  width: 228px;
+  height: 32px;
+}
