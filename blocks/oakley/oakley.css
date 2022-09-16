@@ -2,16 +2,14 @@
 @import url('../page/page.css');
 @import url('../blocks/content/content.css');
 
-@import url('../blocks/two-columns/two-columns.css');
-@import url('../blocks/two-columns/__brief/__brief.css');
-@import url('../blocks/two-columns/__main-text/__main-text.css');
-@import url('../blocks/two-columns/__paragraph/__paragraph.css');
-@import url('../blocks/two-columns/__span-accent/__span-accent.css');
-
-@import url('../blocks/oakley/oakley.css');
-
 .oakley {
   background-color: #f2f2f2;
   padding: 160px 0px 0px 0px;
   margin: -50px 0px 0px 0px;
 }
+
+@import url('../blocks/two-columns/two-columns.css');
+@import url('../blocks/two-columns/__brief/__brief.css');
+@import url('../blocks/two-columns/__main-text/__main-text.css');
+@import url('../blocks/two-columns/__paragraph/__paragraph.css');
+@import url('../blocks/two-columns/__span-accent/__span-accent.css');
