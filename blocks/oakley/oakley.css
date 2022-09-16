@@ -1,4 +1,4 @@
-@import url('../vendor/normalize.css');
+@import url('../blocks/vendor/normalize.css');
 @import url('../blocks/content/content.css');
 
 .oakley {
@@ -11,4 +11,3 @@
 @import url('../blocks/two-columns/__brief/__brief.css');
 @import url('../blocks/two-columns/__main-text/__main-text.css');
 @import url('../blocks/two-columns/__paragraph/__paragraph.css');
-@import url('../blocks/two-columns/__span-accent/__span-accent.css');
