@@ -26,11 +26,11 @@
 @import url('../blocks/table/__text/_theme/_dark.css');
 
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__title.css');
-@import url('../blocks/header/__subtitle.css');
-@import url('../blocks/header/__link.css');
-@import url('../blocks/header/__main-illustration.css');
-@import url('../blocks/header/__square-pic.css');
+@import url('../blocks/header/__title/__title.css');
+@import url('../blocks/header/__subtitle/__subtitle.css');
+@import url('../blocks/header/__link/__link.css');
+@import url('../blocks/header/__main-illustration/__main-illustration.css');
+@import url('../blocks/header/__square-pic/__square-pic.css');
 
 @import url('../blocks/content/content.css');
 

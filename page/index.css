@@ -92,8 +92,4 @@
 @import url('../blocks/footer/__social-icon/__social-icon.css');
 @import url('../blocks/footer/__author/__author.css');
 
-.cards__title {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: 600;
-}
+

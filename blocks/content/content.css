@@ -1,16 +1,6 @@
 @import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-@import url('../modifier/section-title/_theme/_dark.css');
-@import url('../modifier/section-subtitle/_theme/_dark.css');
 
-@import url('../modifier/pic-rotation/pic-rotation.css');
-@import url('../modifier/link-hover/link-hover.css');
-@import url('../modifier/link-style/link-style.css');
-@import url('../modifier/logo/logo.css');
-@import url('../modifier/logo/_place/_header.css');
-
-@import url('./blocks/page/page.css');
+@import url('../page/page.css');
 
 @import url('../blocks/cards/cards.css');
 @import url('../blocks/cards/__item/__item.css');
@@ -80,17 +70,6 @@
 @import url('../blocks/resources/resources.css');
 @import url('../blocks/resources/__logo-zone/__logo-zone.css');
 
-@import url('../blocks/footer/footer.css');
-@import url('../blocks/footer/__columns/__columns.css');
-@import url('../blocks/footer/__columns/_content/_copyright.css');
-@import url('../blocks/footer/__columns/_content/_info.css');
-@import url('../blocks/footer/__columns/_content/_social.css');
-@import url('../blocks/footer/__column/__column.css');
-@import url('../blocks/footer/__column-heading/__column-heading.css');
-@import url('../blocks/footer/__column-links/__column-links.css');
-@import url('../blocks/footer/__column-link/__column-link.css');
-@import url('../blocks/footer/__social-icon/__social-icon.css');
-@import url('../blocks/footer/__author/__author.css');
 
 .content {
   -webkit-box-flex: 1;

@@ -10,7 +10,7 @@
 @import url('../modifier/logo/logo.css');
 @import url('../modifier/logo/_place/_header.css');
 
-@import url('./blocks/page/page.css');
+@import url('../page/page.css');
 
 @import url('../blocks/cards/cards.css');
 @import url('../blocks/cards/__item/__item.css');
