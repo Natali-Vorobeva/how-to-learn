@@ -1,16 +1,4 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/cards/cards.css');
-@import url('../blocks/cards/__item/__item.css');
-@import url('../blocks/cards/__image/__image.css');
-@import url('../blocks/cards/__title/__title.css');
-@import url('../blocks/cards/__description/__description.css');
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/techniques/techniques.css');
-
+.techniques {
+  width: 80%;
+  margin: 0px auto;
+}
