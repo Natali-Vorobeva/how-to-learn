@@ -73,7 +73,7 @@
 @import url('../blocks/khan/__book-pic/__book-pic.css');
 @import url('../blocks/khan/__buy-link/__buy-link.css');
 
-@import url('../blocks/wrapper/_for_triangle.css');
+@import url('../blocks/wrapper-for-triangle/wrapper-for-triangle.css');
 
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/kaufman/__triangle/__triangle.css');
