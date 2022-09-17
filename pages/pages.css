@@ -1,6 +1,22 @@
 @import url('../blocks/vendor/normalize.css');
 @import url('../blocks/root/root.css');
 
+@import url('../blocks/section-title/section-title.css');
+@import url('../blocks/section-subtitle/section-subtitle.css');
+@import url('../blocks/section-title/_theme/_dark.css');
+@import url('../blocks/section-subtitle/_theme/_dark.css');
+
+@import url('../blocks/link-hover/link-hover.css');
+@import url('../blocks/link-style/link-style.css');
+@import url('../blocks/logo/logo.css');
+@import url('../blocks/logo/_place/_header.css');
+@import url('../blocks/logo/_place/_footer.css');
+
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/cards/__item/__item.css');
+@import url('../blocks/cards/__image/__image.css');
+@import url('../blocks/cards/__title/__title.css');
+@import url('../blocks/cards/__description/__description.css');
 
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__title/__title.css');
@@ -80,19 +96,3 @@
 @import url('../blocks/section-subtitle/_theme/_dark.css');
 
 
-@import url('../blocks/section-title/section-title.css');
-@import url('../blocks/section-subtitle/section-subtitle.css');
-@import url('../blocks/section-title/_theme/_dark.css');
-@import url('../blocks/section-subtitle/_theme/_dark.css');
-
-@import url('../blocks/link-hover/link-hover.css');
-@import url('../blocks/link-style/link-style.css');
-@import url('../blocks/logo/logo.css');
-@import url('../blocks/logo/_place/_header.css');
-@import url('../blocks/logo/_place/_footer.css');
-
-@import url('../blocks/cards/cards.css');
-@import url('../blocks/cards/__item/__item.css');
-@import url('../blocks/cards/__image/__image.css');
-@import url('../blocks/cards/__title/__title.css');
-@import url('../blocks/cards/__description/__description.css');
