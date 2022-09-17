@@ -1,21 +1,5 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-@import url('../modifier/section-title/_theme/_dark.css');
-@import url('../modifier/section-subtitle/_theme/_dark.css');
-
-@import url('../modifier/pic-rotation/pic-rotation.css');
-@import url('../modifier/link-hover/link-hover.css');
-@import url('../modifier/link-style/link-style.css');
-@import url('../modifier/logo/logo.css');
-@import url('../modifier/logo/_place/_header.css');
-
-@import url('../page/page.css');
-
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/description/description.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .description {
   display: -webkit-box;
@@ -23,3 +7,4 @@
   display: flex;
   padding: 100px 0px;
 }
+

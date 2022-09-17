@@ -1,11 +1,9 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/pic-rotation/pic-rotation.css');
-@import url('../page/page.css');
-@import url('../blocks/kaufman/kaufman.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .kaufman__triangle {
   position: absolute;
-  background-image: url('../../../images/kaufman-triangle.svg');
+  background-image: url("../../../images/kaufman-triangle.svg");
   background-size: cover;
   width: 877px;
   height: 877px;
@@ -13,5 +11,3 @@
   right: -210px;
   z-index: 2;
 }
-
-

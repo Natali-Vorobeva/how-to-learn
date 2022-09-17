@@ -1,22 +1,5 @@
-@import url('../vendor/normalize.css');
-
-@import url('../modifier/link-hover/link-hover.css');
-@import url('../modifier/link-style/link-style.css');
-@import url('../modifier/logo/logo.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/footer/footer.css');
-@import url('../blocks/footer/__columns/__columns.css');
-@import url('../blocks/footer/__columns/_content/_copyright.css');
-@import url('../blocks/footer/__columns/_content/_info.css');
-@import url('../blocks/footer/__columns/_content/_social.css');
-@import url('../blocks/footer/__column/__column.css');
-@import url('../blocks/footer/__column-heading/__column-heading.css');
-@import url('../blocks/footer/__column-links/__column-links.css');
-@import url('../blocks/footer/__column-link/__column-link.css');
-@import url('../blocks/footer/__social-icon/__social-icon.css');
-@import url('../blocks/footer/__author/__author.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .footer__columns {
   width: 90%;

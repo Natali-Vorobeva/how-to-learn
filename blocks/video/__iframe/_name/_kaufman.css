@@ -1,15 +1,5 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/video/video.css');
-@import url('../blocks/video/__iframe/__iframe.css');
-@import url('../blocks/video/__iframe/_name/_kaufman.css');
-@import url('../blocks/video/__iframe/_name/_urban.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .video__iframe_name_kaufman {
   width: 515px;

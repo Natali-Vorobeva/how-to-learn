@@ -1,19 +1,5 @@
-@import url('../vendor/normalize.css');
-
-@import url('../modifier/pic-rotation/pic-rotation.css');
-@import url('../modifier/link-hover/link-hover.css');
-@import url('../modifier/logo/logo.css');
-@import url('../modifier/logo/_place/_header.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/header/header.css');
-@import url('../blocks/header/__title/__title.css');
-@import url('../blocks/header/__subtitle/__subtitle.css');
-@import url('../blocks/header/__link/__link.css');
-@import url('../blocks/header/__square-pic/__square-pic.css');
-
-
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .header__main-illustration {
   position: absolute;

@@ -1,0 +1,16 @@
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.pic-rotation {
+  -webkit-animation: rotation 20s linear infinite;
+          animation: rotation 20s linear infinite;
+}

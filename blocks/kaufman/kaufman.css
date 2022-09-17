@@ -1,31 +1,8 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-@import url('../modifier/section-title/_theme/_dark.css');
-@import url('../modifier/section-subtitle/_theme/_dark.css');
-
-@import url('../modifier/pic-rotation/pic-rotation.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/table/table.css');
-@import url('../blocks/table/__cell/__cell.css');
-@import url('../blocks/table/__heading/__heading.css');
-@import url('../blocks/table/__text/__text.css');
-@import url('../blocks/table/_theme/_dark.css');
-@import url('../blocks/table/__cell/_theme/_dark.css');
-@import url('../blocks/table/__heading/_theme/_dark.css');
-@import url('../blocks/table/__text/_theme/_dark.css');
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/wrapper/_for_triangle.css');
-
-@import url('../blocks/kaufman/kaufman.css');
-@import url('../blocks/kaufman/__triangle/__triangle.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .kaufman {
   position: relative;
   background-color: #1f1f1f;
-  padding: 90px 0px;
+  padding: 0px 0px 90px 0px;
 }

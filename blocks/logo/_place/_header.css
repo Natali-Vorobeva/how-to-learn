@@ -1,0 +1,9 @@
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
+
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 2;
+}

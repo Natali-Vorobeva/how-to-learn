@@ -1,9 +1,5 @@
-@import url('../vendor/normalize.css');
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/description/description.css');
-@import url('../blocks/oakley/oakley.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .two-columns__span-accent {
   font-weight: 600;

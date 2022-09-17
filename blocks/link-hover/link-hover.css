@@ -1,0 +1,11 @@
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
+
+.link-hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+.link-hover:hover {
+  opacity: 0.7;
+}
+

@@ -1,13 +1,5 @@
-@import url('../vendor/normalize.css');
-@import url('../modifier/section-title/section-title.css');
-@import url('../modifier/section-subtitle/section-subtitle.css');
-
-@import url('../page/page.css');
-
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/resources/resources.css');
-@import url('../blocks/resources/__logo-zone/__logo-zone.css');
+@import url('../blocks/vendor/normalize.css');
+@import url('../blocks/root/root.css');
 
 .resources__logo-zone {
   padding: 80px 0px 217px 0px;
