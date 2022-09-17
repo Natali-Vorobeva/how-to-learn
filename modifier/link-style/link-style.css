@@ -1,7 +1,0 @@
-@import url('/blocks/feynman/__link/__link.css');
-@import url('/blocks/khan/__buy-link/__buy-link.css');
-
-.link-style {
-  text-decoration: none;
-  color: #2f80ed;
-}
