@@ -3,6 +3,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  border: 0;
 }
 
 .video__iframe:not(:last-child){
