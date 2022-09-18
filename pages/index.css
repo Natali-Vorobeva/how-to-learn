@@ -6,8 +6,7 @@
 @import url('../blocks/section-title/_theme/_dark.css');
 @import url('../blocks/section-subtitle/_theme/_dark.css');
 
-@import url('../blocks/link-hover/link-hover.css');
-@import url('../blocks/link-style/link-style.css');
+@import url('../blocks/link/link.css');
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/_header.css');
 @import url('../blocks/logo/_place/_footer.css');
@@ -33,7 +32,7 @@
 @import url('../blocks/table/__cell/_theme/_dark.css');
 @import url('../blocks/table/__heading/_theme/_dark.css');
 @import url('../blocks/table/__text/_theme/_dark.css');
-@import url('../blocks/pic-rotation/pic-rotation.css');
+@import url('../blocks/rotation/rotation.css');
 
 @import url('../blocks/content/content.css');
 
@@ -48,9 +47,8 @@
 @import url('../blocks/techniques/techniques.css');
 
 @import url('../blocks/video/video.css');
+@import url('../blocks/video/__iframes/__iframes.css');
 @import url('../blocks/video/__iframe/__iframe.css');
-@import url('../blocks/video/__iframe/_name/_kaufman.css');
-@import url('../blocks/video/__iframe/_name/_urban.css');
 
 @import url('../blocks/oakley/oakley.css');
 
@@ -73,13 +71,12 @@
 @import url('../blocks/khan/__book-pic/__book-pic.css');
 @import url('../blocks/khan/__buy-link/__buy-link.css');
 
-@import url('../blocks/wrapper-for-triangle/wrapper-for-triangle.css');
-
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/kaufman/__triangle/__triangle.css');
 
 @import url('../blocks/resources/resources.css');
 @import url('../blocks/resources/__logo-zone/__logo-zone.css');
+@import url('../blocks/resources/__logo/__logo.css');
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__columns/__columns.css');
