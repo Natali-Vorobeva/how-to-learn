@@ -1,0 +1,11 @@
+.feedback__form {
+  height: 100%;
+  display: flex;
+  margin: 100px 0px 0px 0px;
+  flex-direction: column;
+  background-image: url('/../images/envelope.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 190px 0px 100px 440px;
+}
+
