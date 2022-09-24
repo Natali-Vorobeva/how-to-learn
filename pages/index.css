@@ -78,6 +78,14 @@
 @import url('../blocks/resources/__logo-zone/__logo-zone.css');
 @import url('../blocks/resources/__logo/__logo.css');
 
+@import url('../blocks/feedback/feedback.css');
+@import url('../blocks/feedback/__comment/__comment.css');
+@import url('../blocks/feedback/__form/__form.css');
+@import url('../blocks/feedback/__input/__input.css');
+@import url('../blocks/feedback/__label/__label.css');
+@import url('../blocks/feedback/__submit/__submit.css');
+@import url('../blocks/feedback/__plane/__plane.css');
+
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__columns/__columns.css');
 @import url('../blocks/footer/__column/_content/_copyright.css');
