@@ -1,0 +1,35 @@
+@keyframes plane {
+  0% {
+    opacity: 1;
+  }
+  30% {
+    transform: translate(-350px, -280px);
+
+  }
+  50% {
+    /* transform: translate(450px, -500px); */
+  }
+  60% {
+    opacity: .6;
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    transform: translate(490px, -510px);
+    opacity: 0;
+  }
+}
+
+.feedback__plane {
+  width: 160px;
+  height: 100px;
+  margin: -20px 0px 0px 20px;
+  position: relative;
+  z-index: 3;
+}
+
+.feedback__plane:active {
+  animation: plane 6s  ease backwards;
+
+}
